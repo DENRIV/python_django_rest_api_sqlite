@@ -1,4 +1,4 @@
-# python_django_rest_api_sqlite GET,POST,PUT,DELETE,PATCH : hero
+# python_django_rest_api_sqlite GET,POST,PUT,DELETE,PATCH : hero 
 
 GET — The most common option, returns some data from the API based on the endpoint you visit and any parameters you provide
 
